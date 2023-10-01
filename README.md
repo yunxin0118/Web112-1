@@ -9,7 +9,7 @@
 ## 課程筆記區
 ## 作業連結區
 
-0912作業: [My Web](file:///C:/Users/a0983/OneDrive/%E6%A1%8C%E9%9D%A2/Project/bootstrap-5.3.1-examples/carousel/index.html)
+0912作業: [My Web]
 
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/
