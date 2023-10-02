@@ -9,7 +9,7 @@
 ## 課程筆記區
 ## 作業連結區
 
-0912作業: [My Web]
+0912作業: [My Web](https://yunxin0118.github.io/html/)
 
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/
